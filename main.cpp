@@ -11,6 +11,7 @@ int main() {
     std::cin >> start;
     std::cout << "Введите конечное значение x: ";
     std::cin >> end;
+    
     std::cout << "Введите шаг: ";
     std::cin >> step;
 
